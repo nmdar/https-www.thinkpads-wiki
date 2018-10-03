@@ -1,1 +1,1 @@
-# https-www.thinkpads-wiki
+foo
